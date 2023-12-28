@@ -11,9 +11,6 @@ public class Main {
         OldCar oldCar2 = new OldCar(4, 1, "Jeep2", 1934);
         OldCar oldCar3 = new OldCar(4, 1, "Jeep3", 1934);
 
-        // premiumCar.showCarInfo();
-        // oldCar.showCarInfo();
-
         Car[] carsArray = new Car[10];
 
         carsArray[0] = premiumCar;
